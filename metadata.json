@@ -1,0 +1,6 @@
+{
+  "name": "LJ-Aduaneiro",
+  "description": "Auditor Documental Aduaneiro inteligente para prevenção de erros, validação de compliance e controle de pauta aduaneira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
